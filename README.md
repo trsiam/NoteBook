@@ -7,5 +7,4 @@ Run the code at .py file
 
 
 ## RUN VIEW
-
-![NOTEBOOK-v2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/dc058386-1224-4eca-8460-238945cf6297)
+![NOTEBOOK-v2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/54b955be-0943-47fe-8296-985bc8e561e5)
